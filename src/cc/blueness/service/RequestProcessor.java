@@ -19,7 +19,6 @@ import java.util.List;
 import java.util.LinkedList;  
 import java.util.StringTokenizer;  
   
-  
 public class RequestProcessor implements Runnable {  
   
     private static List pool=new LinkedList();  
